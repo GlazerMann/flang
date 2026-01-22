@@ -11,7 +11,7 @@ Note:
 - This project is not related to the project of the same name based on PGI's
 Fortran compiler which can be found at https://github.com/flang-compiler/flang.
 See https://github.com/llvm-flang/flang/issues/5 for details.
-- A fork in now under active development at https://gihub.com/llvm-fortran/fort.
+- A fork in now under active development at https://github.com/llvm-fortran/fort.
 See https://github.com/llvm-flang/flang/issues/22 for details.
 
 //===----------------------------------------------------------------------===//
